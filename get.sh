@@ -1,10 +1,15 @@
 #!/bin/bash
 
 sudo mkdir -p roads
+sudo mkdir -p planets
 
-VALLEY_OF_FIRE="roads/valley-of-fire-road-nevada.jpg"
-VALLEY_OF_FIRE_URL="https://4kwallpapers.com/images/wallpapers/valley-of-fire-state-park-road-tarmac-highway-nevada-3648x5472-1096.jpg"
-if [[ ! -f $VALLEY_OF_FIRE ]]; then
-  sudo wget -O $VALLEY_OF_FIRE $VALLEY_OF_FIRE_URL
-fi
+get() {
+  if [[ ! -f $1 ]]; then
+    sudo get -O $1 $2
+  fi
+}
+
+get roads/valley-of-fire-road-nevada.jpg https://4kwallpapers.com/images/wallpapers/valley-of-fire-state-park-road-tarmac-highway-nevada-3648x5472-1096.jpg
+
+get planets/saturn_a.jpg https://4kwallpapers.com/images/wallpapers/saturn-solar-system-5822x3824-10203.jpg
 

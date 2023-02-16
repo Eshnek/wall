@@ -2,6 +2,7 @@
 
 sudo mkdir -p roads
 sudo mkdir -p planets
+sudo mkdir -p scapes
 
 wall() {
   if [[ ! -f $1 ]]; then
@@ -13,3 +14,5 @@ wall roads/valley-of-fire-road-nevada.jpg https://4kwallpapers.com/images/wallpa
 
 wall planets/saturn_a.jpg https://4kwallpapers.com/images/wallpapers/saturn-solar-system-5822x3824-10203.jpg
 
+wall scapes/sea_a.jpg https://4kwallpapers.com/images/wallpapers/seascape-sunset-rocks-twilight-summer-5k-8k-7600x5069-8538.jpg
+wall scapes/mountains_a.jpg https://4kwallpapers.com/images/wallpapers/dolomite-mountains-summer-italian-alps-sunset-mountain-view-7680x4833-8574.jpg

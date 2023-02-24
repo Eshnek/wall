@@ -1,13 +1,15 @@
 #!/bin/bash
 
-sudo mkdir -p roads
-sudo mkdir -p planets
-sudo mkdir -p scapes
-sudo mkdir -p space
+PREFIX="/opt/wall"
+
+sudo mkdir -p $PREFIX/roads
+sudo mkdir -p $PREFIX/planets
+sudo mkdir -p $PREFIX/scapes
+sudo mkdir -p $PREFIX/space
 
 wall() {
   if [[ ! -f $1 ]]; then
-    sudo wget -O $1 $2
+    sudo wget -O $PREFIX/$1 $2
   fi
 }
 

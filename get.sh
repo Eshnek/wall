@@ -2,14 +2,15 @@
 
 PREFIX="/opt/wall"
 
-sudo mkdir -p $PREFIX/roads
-sudo mkdir -p $PREFIX/planets
-sudo mkdir -p $PREFIX/scapes
-sudo mkdir -p $PREFIX/space
+sudo mkdir -p "$PREFIX/roads"
+sudo mkdir -p "$PREFIX/planets"
+sudo mkdir -p "$PREFIX/scapes"
+sudo mkdir -p "$PREFIX/space"
+sudo mkdir -p "$PREFIX/abstract"
 
 wall() {
   if [[ ! -f $1 ]]; then
-    sudo wget -O $PREFIX/$1 $2
+    sudo wget -O "$PREFIX/$1" "$2"
   fi
 }
 
@@ -21,3 +22,5 @@ wall scapes/sea_a.jpg https://4kwallpapers.com/images/wallpapers/seascape-sunset
 wall scapes/mountains_a.jpg https://4kwallpapers.com/images/wallpapers/dolomite-mountains-summer-italian-alps-sunset-mountain-view-7680x4833-8574.jpg
 
 wall space/space_a.jpg https://4kwallpapers.com/images/wallpapers/stars-galaxy-3840x2560-10307.jpg
+
+wall abstract/fluff_orange.png https://4kwallpapers.com/images/wallpapers/windows-11-stock-orange-abstract-dark-background-3840x2400-8960.png

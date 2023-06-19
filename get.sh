@@ -20,6 +20,7 @@ wall planets/saturn_a.jpg https://4kwallpapers.com/images/wallpapers/saturn-sola
 
 wall scapes/sea_a.jpg https://4kwallpapers.com/images/wallpapers/seascape-sunset-rocks-twilight-summer-5k-8k-7600x5069-8538.jpg
 wall scapes/mountains_a.jpg https://4kwallpapers.com/images/wallpapers/dolomite-mountains-summer-italian-alps-sunset-mountain-view-7680x4833-8574.jpg
+wall scapes/mountains_b.jpg https://4kwallpapers.com/images/wallpapers/mountain-peak-alps-7680x5120-11501.jpg
 
 wall space/space_a.jpg https://4kwallpapers.com/images/wallpapers/stars-galaxy-3840x2560-10307.jpg
 

@@ -21,8 +21,8 @@ wall planets/saturn_a.jpg https://4kwallpapers.com/images/wallpapers/saturn-sola
 wall scapes/sea_a.jpg https://4kwallpapers.com/images/wallpapers/seascape-sunset-rocks-twilight-summer-5k-8k-7600x5069-8538.jpg
 wall scapes/mountains_a.jpg https://4kwallpapers.com/images/wallpapers/dolomite-mountains-summer-italian-alps-sunset-mountain-view-7680x4833-8574.jpg
 wall scapes/mountains_b.jpg https://4kwallpapers.com/images/wallpapers/mountain-peak-alps-7680x5120-11501.jpg
-wall scapes/mountains_c.jpg https://4kwallpapers.com/images/wallpapers/alps-mountains-mountain-range-summer-sunny-day-forest-clear-4032x3024-5384.jpg
-wall scapes/mountains_d.jpg https://4kwallpapers.com/images/wallpapers/swiss-alps-alps-mountains-switzerland-clouds-surreal-scenic-3840x2400-6081.jpg
+wall scapes/mountains_c.jpg https://4kwallpapers.com/images/wallpapers/karersee-lake-dolomite-mountains-alps-mountains-landscape-6016x3384-8569.jpg
+wall scapes/mountains_d.jpg https://4kwallpapers.com/images/wallpapers/seealpsee-lake-alps-mountains-reflections-scenery-summer-6016x3384-8853.jpg
 
 wall space/space_a.jpg https://4kwallpapers.com/images/wallpapers/stars-galaxy-3840x2560-10307.jpg
 

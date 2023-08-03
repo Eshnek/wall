@@ -27,3 +27,4 @@ wall scapes/mountains_d.jpg https://4kwallpapers.com/images/wallpapers/seealpsee
 wall space/space_a.jpg https://4kwallpapers.com/images/wallpapers/stars-galaxy-3840x2560-10307.jpg
 
 wall abstract/fluff_orange.png https://4kwallpapers.com/images/wallpapers/windows-11-stock-orange-abstract-dark-background-3840x2400-8960.png
+wall abstract/pixels.png https://4kwallpapers.com/images/wallpapers/abstract-background-3840x2160-10239.png
